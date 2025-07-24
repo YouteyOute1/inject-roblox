@@ -1,3 +1,3 @@
 @echo off
-python NumberGuess.py
+python injectorroblox.py
 pause
